@@ -17,6 +17,9 @@ A decentralized bill-splitting dApp built on the **Stellar Testnet**. Create bil
 
 ---
 
+## Deployed link
+https://vercel.com/sakshichavan-scs-projects/yellow-belt-split1/yqM8dtA7idwof38uVSGivGc3PNBB
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
